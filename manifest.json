@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "SiteStash - Category Bookmark Manager",
+  "version": "1.0",
+  "description": "Save and categorize your favorite websites instantly.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
